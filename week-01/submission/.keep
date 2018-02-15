@@ -1,0 +1,4 @@
+#A.1 Created a list of strings
+list1-{'I', 'am', 'learning', 'Python', 'to', 'munge', 'larger', 'datasets', 'and', 'visualize', 'them'}
+list(reversed(array))
+#A.2 Print the
